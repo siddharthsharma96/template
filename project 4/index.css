@@ -1,0 +1,55 @@
+@import url("https://unpkg.com/aos@2.3.1/dist/aos.css");
+.a{
+    border: yellow 2px solid;
+}
+.header-div{
+    background-image: radial-gradient(circle, #090979 0%, #000046 100%);
+}
+.header-div-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 50px;
+
+}
+.header-div-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: white;
+}
+.about-div{
+    background-color: rgb(248,248,248);
+}
+.about-div-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+
+}
+.about-div-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.card-img{
+    background: linear-gradient(to right, #30CFD0 10%, #330867 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card-text{
+    font-size: 12px;
+}
+.card{
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+.card-outstanding-text{
+    font-size: 14px;
+    font-weight: 600;
+}
+.card:hover{
+    background-image: radial-gradient(circle, #090979 0%, #000046 100%);
+    color: white
+}
+.card-outstanding-text:hover{
+    color:white;
+}
+.outstanding-div{
+    background-color: rgb(241,241,241);
+}

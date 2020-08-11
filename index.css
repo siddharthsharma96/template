@@ -1,0 +1,44 @@
+.as{
+	border: red solid 2px;
+	background-color: yellow;
+}
+.a{
+	border: red solid 2px;
+}
+.search{
+	background-image: radial-gradient(circle,#9d9d80,#97966c,#909058,#8a8944,#83822e,#85842e,#88872f,#8a892f,#969547,#a2a25e,#afae75,#bbbb8c);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);
+	height: 100%;
+}
+.search-text{
+	font-size: 24px;
+}
+.footer-info{
+	background-color: #191818;
+}
+.footer-text{
+	font-size: 12px;
+}
+.footer-link{
+	font-size: 15px;
+	color: 	 #a6a6a6;	
+}
+.footer-link:hover{
+	color: white;
+}
+hr{
+	height: 2px;
+	background-color:white;
+	margin: 0px;
+}
+.footer-row{
+	background-color: black;
+	padding-bottom: 0px;
+}
+.mb-0{
+	margin-bottom: 0px;
+}
+.card{
+    height: 15rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
